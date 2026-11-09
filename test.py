@@ -10,3 +10,5 @@ absen = input("02")
 
 aaaaaa = input("100")
 
+kebiasaan = input("makan")
+
