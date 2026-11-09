@@ -3,9 +3,10 @@ print ("hello word")
 
 
 #fitur abcder
-nama = input("Putra ")
+nama = input("masukan nama anda : ")
 
 #absen
-absen = input("02")
+absen = input("masukan absen anda : ")
 
-aaaaaa = input("100")
+aaaaaa = input("masukan nilai anda : ")
+
