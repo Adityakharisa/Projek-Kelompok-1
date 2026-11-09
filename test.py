@@ -7,3 +7,5 @@ nama = input("masukan nama anda : ")
 
 #absen
 absen = input("masukan absen anda : ")
+
+aaaaaa = input("masukan nilai anda : ")
